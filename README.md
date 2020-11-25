@@ -5,7 +5,7 @@ This is a part of the Capstone Project for [IBM Data Science Professional Certif
 ![Downtown Los Angeles"](images/dtla.jpg)
 *Los Angeles Sky Line (Image Source: [Wikipidea](https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Los_Angeles#/media/File:Los_Angeles,_Winter_2016.jpg))*
 
-My article on [Medium](https://medium.com/@chaitanya_kasaraneni/los-angeles-neighborhood-analysis-c43457441869)
+My article on [Medium](https://chaitanya-kasaraneni.medium.com/los-angeles-neighborhood-analysis-c43457441869)
 
 ***Note:*** *GitHub doesn't show folium maps. To view maps please go to https://nbviewer.jupyter.org*
 
